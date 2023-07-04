@@ -8,5 +8,6 @@ public class Main {
         System.out.println("5 from first");
         System.out.println("6 from first");
         System.out.println("7 from first");
+        System.out.println("8 from first");
     }
 }
