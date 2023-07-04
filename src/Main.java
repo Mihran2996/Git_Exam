@@ -10,5 +10,6 @@ public class Main {
         System.out.println("7 from first");
         System.out.println("8from first");
         System.out.println("9");
+        System.out.println("10");
     }
 }
