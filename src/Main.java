@@ -6,6 +6,5 @@ public class Main {
         System.out.println("3 from first");
         System.out.println("4 from first");
         System.out.println("5 from first");
-        System.out.println("6 from first");
     }
 }
